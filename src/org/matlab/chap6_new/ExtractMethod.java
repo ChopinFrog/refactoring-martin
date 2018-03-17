@@ -24,7 +24,6 @@ public class ExtractMethod {
 		System.out.println("외상: " + outstanding);
 	}	
 	
-	
 	public void printBanner() {
 		// 배너 출력
 		System.out.println("******************");

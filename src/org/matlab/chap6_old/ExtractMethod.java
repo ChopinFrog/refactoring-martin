@@ -7,8 +7,6 @@ public class ExtractMethod {
 
 	private Vector _order = new Vector();
 	private String _name; 
-	
-
 
 	public void printOwing() {
 		Enumeration e = _order.elements();
